@@ -37,6 +37,7 @@ class HomePage extends StatelessWidget {
               dotColor: Colors.deepPurple.shade100,
               dotHeight: 30,
               dotWidth: 30,
+              spacing: 16,
             ),
           ),
         ],
