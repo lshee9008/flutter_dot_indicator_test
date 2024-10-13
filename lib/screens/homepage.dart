@@ -38,6 +38,7 @@ class HomePage extends StatelessWidget {
               dotHeight: 30,
               dotWidth: 30,
               spacing: 16,
+              verticalOffset: 50,
             ),
           ),
         ],
