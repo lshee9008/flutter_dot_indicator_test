@@ -32,7 +32,7 @@ class HomePage extends StatelessWidget {
           SmoothPageIndicator(
             controller: _controller,
             count: 4,
-            effect: ExpandingDotsEffect(
+            effect: SwapEffect(
               activeDotColor: Colors.deepPurple,
               dotColor: Colors.deepPurple.shade100,
               dotHeight: 30,
